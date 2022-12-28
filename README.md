@@ -1,16 +1,16 @@
 # Practices
 EXPERIMENTS
 
-Experiment 1
-(A) Write a python program to performs different (arithmetic, assignment, logical, identity and membership) operators on numbers.
-(B) Write a python program to create a list and perform the following methods: insert(), remove(), append(), len(), pop() and clear()
-(C) Create a tuple and perform the following methods: Add items, len(), check for item in tuple, Access iems.
-Experiment 2
-(A) Write a python program to that accepts length of three sides of a triangle as inputs. The program should indicate whether or not the triangle is a rightangled triangle (use Pythagorean theorem).
-(B) Write a python program to convert temperature to and from Celsius to Fahrenheit.
-(C) Write a python Program to read a number and display corresponding day using if_elif_else.
+<br>Experiment 1<br>
+(A) Write a python program to performs different (arithmetic, assignment, logical, identity and membership) operators on numbers.<br>
+(B) Write a python program to create a list and perform the following methods: insert(), remove(), append(), len(), pop() and clear()<br>
+(C) Create a tuple and perform the following methods: Add items, len(), check for item in tuple, Access iems.<br>
+<b>Experiment 2</b>
+(A) Write a python program to that accepts length of three sides of a triangle as inputs. The program should indicate whether or not the triangle is a rightangled triangle (use Pythagorean theorem).<br>
+(B) Write a python program to convert temperature to and from Celsius to Fahrenheit.<br>
+(C) Write a python Program to read a number and display corresponding day using if_elif_else.<br>
 Experiment 3
-(A) Write a python program to find sum of first n even numbers.
+(A) Write a python program to find sum of first n even numbers.**<br>**
 (B) Write a python program to find sum of square of digits of a given number.
 Experiment 4
 (A) Write a python program to print the transpose of a matrix.
