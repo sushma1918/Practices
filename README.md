@@ -1,5 +1,5 @@
 # Practices
-EXPERIMENTS
+<center> EXPERIMENTS</center> 
 
 <br>Experiment 1<br>
 (A) Write a python program to performs different (arithmetic, assignment, logical, identity and membership) operators on numbers.<br>
